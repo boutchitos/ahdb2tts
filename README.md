@@ -1,4 +1,4 @@
-Browse to a deck, like https://arkhamdb.com/decklist/view/7736
+Browse to a deck, like https://arkhamdb.com/deck/view/772473
   then Get Deck!
 
 or,
